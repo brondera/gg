@@ -7,7 +7,7 @@
 * Data types
   * GIS Analysis
   * Coordinates
-  * Projections: 
+  * Projections: https://thetruesize.com 
 * Industries
 * Vendors/Competition
   * Oracle Locator/Spatial - MCS LBS: https://blogs.oracle.com/mobile/learn-about-oracle-mcs-location-based-services-from-these-new-videos
@@ -16,11 +16,14 @@
   * Data Transformation: Safe (FME)
 
 
-**2. Discuss GitHub Basics**
+**2. Discuss GitHub Basics** <br>
+Use whiteboard and walk through .js map example
 
 **3. Malaga Geek Guild MISSION!**
 - [ ] Create a GitHub Account
-- [ ] Create a branch (gg-XXX) of https://github.com/brondera/gg Download the code (.zip)
-- [ ] Edit index.html - Add a pin to the map (hometown?) add a popup with some info (name?)
-- [ ] Commit your changes to your branch (gg-XXX)
-- [ ] Make a pull request
+- [ ] Create a FORK ([XXX]/gg, where [XXX] is your GitHub usrname) of https://github.com/brondera/gg
+- [ ] Download the code (.zip) & Review
+- [ ] Edit index.html - Add a pin to the map (hometown?) & add a popup with some info (name?)
+- [ ] Commit your changes to your branch ([XXX]/gg)
+- [ ] Make a pull request to brondera/gg
+- [ ] (Hopefully) see your changes added to brondera/gg
